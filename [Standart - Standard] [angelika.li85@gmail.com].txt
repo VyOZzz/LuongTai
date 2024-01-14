@@ -1,0 +1,13 @@
+www.netflix.com	FALSE	/	FALSE	1701388800	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEJ3hh3FTGyLS4G3db0ya4slgCCnbK2ho32UvaeFtIi3jVkj79PRsiqZo_VRfhgmHdYNx9FM-zYQdbrWClwLHqJ8LgVDYmPl9bVcS_0Ex8JbkcF2l_4Q4cpFKqk6frpUSLS4m7l87iO8CleggNE6cmvGI
+.netflix.com	TRUE	/	FALSE	1701388800	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A0.124378%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A0.124378%7D%7D
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonAlertBoxClosed	2022-04-07T19:17:58.205Z
+.netflix.com	TRUE	/	FALSE	1701388800	flwssn	0c7775e2-caef-4907-9b1d-b76528420c78
+.netflix.com	TRUE	/	FALSE	1701388800	dsca	customer
+.netflix.com	TRUE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSHhZ2auYtn9bsf3gx9_XtRi9qKaevXf7g.%26dt%3D1672690633630
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	ct%3DBQAOAAEBEALkSrhbKSZOHnzTDRIJcbyCEMBnjzNu6b-XDVSsJxTVxzdULVDLDh1W6kDvFXeWbbDiPj1LLfGZJ5jYFLIRwRZ_4hCh-FdrRiULXgEc6VcLrzxr8jRzDx6_pl0BZ6F66Of2mmBWwJmPWLFxNKkGHzHR0dgL0odg5ak6cQVoAiQrMonmBC-TUWlVMTrigyJG4cRA1ItzHqNNCfW39dDE5yVC77JJONHB6vIkqJkUe8M8RQWCASS7IcsmId3C5J2nW20Z2KpBUPZprJmZtIpn5dH1uhxM2e39BzseCpZldmjRQWYQfuz-YyvEAEAsPT5n-jSJ4PqXYiD32Ym_R1jJJ5i954pY1g5jrivBQZQmFpXieSe8vUEmiisfvC9xheHW_3-LnQisGtY2qrzwymHi8EvbnAPl6VX_RiHw9Pfj08_2BQNxG7kzWrPKjwA_RZIhJq61kdzPQxkekQGcK91Y9AfNq7PuOB-MRR9irW6FMqUzqjis1Cr6DySM9jpJo7isZVHd5pmxP3rdRE_1ch56yRBcInGoDhr8TB30NlqPj4H3I5a0FFaK_4U1dqabHS3r5LsWBzkHs55Jf33rSyW6gHX5x7rmq2DHg4mz54-LbSb7PL2Sc7GR0CzO_3w3JoLu0HvLb4tMxZplpxcbN1CCDMFGSaGXPXSUYKzpo3__3VI2k_si-x_T7TDSPNXmgwmGNFDBGVjlk0Og9ZrUVniVAGc0KA..%26bt%3Ddbl%26ch%3DAQEAEAABABQjlVAdvM32Un9bjeeiFwM-EeR6Ur3AhPw.%26v%3D2%26mac%3DAQEAEAABABRZeFLvyugLKU0bNrW10UvgsKLcgq_E0xw.
+.netflix.com	TRUE	/	FALSE	1701388800	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1701388800	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jan+03+2023+04%3A26%3A07+GMT%2B0100+(centraleuropeisk+normaltid)&version=202211.2.0&consentId=f14623fc-422a-41e2-b0cf-5aa83465ac59&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&geolocation=SE%3BAB&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1701388800	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	fa1bdf16-0f9b-4f6f-a0f9-698ff8a8c55a

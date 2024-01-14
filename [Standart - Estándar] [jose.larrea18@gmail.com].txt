@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1701388800	flwssn	17831c6c-7d2b-40e3-8ee8-6c1e2e3eb131
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	00bee7b4-4d67-4a7a-bff2-f2b8fe57abe6
+.netflix.com	TRUE	/	FALSE	1701388800	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1701388800	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1701388800	oneDayAdditionalExecutionLimitLastExecutionTimestampXx	1648404886
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBEI0NsP__dCOHh4d2KDQGwN6CAMGUNiPja8uU-KJDqqYcOn44jJ0UM4cSqwUazV5K3lSEtNxOiIfg8L71tJHDbjg91yOSqVJlt8LilTJzBGJGSFqLt2HUXzmhJoE-5EdRMBtcAg2Tog3IaALEuUvCWEb-H5COztMPP7TsdCyNADlS8bUQ_ByXm8my89T8jw1eZuSjTZq7Fsdha8O18Ip_jXIdVwoADCDOO-FavKL-09NWf83JdbBkOT19Dp5ar60GV0o4lRYh0EIb6BlVxEQM-nos6N7fkfyCP5Fj68sreFAKdWspwf64S1_C6iBYErp5rt7sJVI8rzU0bGFpjTO6HjFF_ZppFSKPiAROZphJdWtKcEgDJK3RblKqJ35a7s3ty-wXnX8GgI_OmdWOG4-lTDeOHRQ4u6TPxs344LgIz2xQlM_YdCozCPKajAVvomw01BeOwFGIMkQKUNS1YMPszdynO1xhLg3JwkykkzN-zdqI25KGNmDIMPV9dtnkW9-9liwLhhvD8adBg7E4YUd0eXERvPwlOkr_lutU8CkByo6nUPastwMXpPPXnAH8waOe37sQOzywCWokiVBW7sirJa5g3cHpkLiZsANblJPCnO-x5QTZjQHOELPx_aAvU6sWj0WXSQcnGLcMhqc9155V3AAgEJJd_nob7blpa3hSfXtSppnsUvJPnreGEhKV22Ea8but%26bt%3Ddbl%26ch%3DAQEAEAABABRp2ALAicu-148RuXhvG8BUKHWDoDFTjxE.%26mac%3DAQEAEAABABS4GahaQcf6rwROopxFZEA4IIPZyG19xDk.
+.netflix.com	TRUE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQfxdsZukbcvLXvFbJuKNernLdl35BQo8U.%26dt%3D1648405397742
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEDi5FIi4UeHvJmsiPS_WzEtg7khgRGmjN2qexfjcvF9YCF3D9pBml87ugZBNH5pfbEGq5TFEYPNkb3P6SrMAsqf7ig8m5OZ6JOrfXg9ZI8DBuUx1tXbr9x2DkG4Z6vY09mbdlg1JGtamaonFJ_pmNQ_r
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Sun+Mar+27+2022+20%3A23%3A25+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=6.6.0&consentId=62e5b33e-8067-4e64-b8e6-131279a6ba43&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&geolocation=ES%3BVC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonAlertBoxClosed	2022-03-27T18:23:25.582Z

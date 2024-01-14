@@ -1,0 +1,12 @@
+.help.netflix.com	TRUE	/	FALSE	0	XSRF-TOKEN	e8e6caa9-3e6f-472b-b79b-be84564f9361
+.netflix.com	FALSE	/	FALSE	1722175466	NetflixId	ct%3DBQAOAAEBEDKsYpUnr_Ah3uxdwecBMkGCYERPzl38SPdzuwWGGxtiO0x4VlCygWB6Ek6z2lySOfxk93zuOQ6ghRd8JmvomOWLgIytUCWzxeFB_aBpRWprMUp_0UUjW0DnlFNDKrAAxX-MnRLXzGRilUvJ4rM0FKg4aP5PNaoLPaozcd9tt2Uppj5kUDyPPM0CadHdBWzme_16tjhAnL3p2yOLPinRiYQYdje6IOjW6kVEzm9Q6DC073134ge_CsBGsZaj9hIk5Xx0_LtxXh9boeYvOaiQG_UhGPX5Lp492cnzJtBQdiIHNzxwY3flBb_eeqbcQwjLF-0Ad_WwYel3UOJHhZSW-TfBDhzPGwFMux8gC2hivVy1pC-6EmWH6ZxfmaETn24g5_3jUhJKobgy6G5u3vH6AD0TxhaidAG_9CeOL5IA__49rDJb8BCk3W-eyHQQpbv6BDTHNXYe91htVN1PjSwWjqgI3OQzGANN7ixXPIL0scBdg49DVeRCj4PA2SEyUxBw8ZSnK2WScJEf1DGaUAvcOgG_LnKFCJ6crLPUtNAJfNFJV4EJWNPka2XOFsQXT12ogaP4mlv_yaT2IG5fG11bbfuKycP9930Fe_gYf81szugp8X83YhMB_IyIhf5lZ1yXFYv8WLMD2iw31ziUHy_h6W9iQrCaK-SDJeiLRn9rKvcRo7y0A0QxsMDXvb11zugDXGmK5CzZ3HwHr5v9JBT1VHZ9OkbSrjjwuH9acvhsP3ijUlY-tEmx53qruV_K_FX9iHFKNaEf5_ee0KoaAvbdYAC-on8PN1gakmKJzFYThMLiR6bLuCV4mqwyKxGYLJskJNuP%26bt%3Ddbl%26ch%3DAQEAEAABABQ566J2n5KhYr_azZqkQ60F_OSgWbbeR_Q.%26v%3D2%26mac%3DAQEAEAABABQSzlaryOPZasogRJRKvrVtzS-S7ryZfYA.
+.netflix.com	FALSE	/	FALSE	1722175466	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQDDnMAFKQepTSZqbJ89xzuTLQiBOihGkc.%26dt%3D1690646665678
+.netflix.com	TRUE	/	TRUE	1722175467	nfvdid	BQFmAAEBEGd-ujGiM-419Wi49hCg0C9gtmONjprhlGetBiN5Vme1mleFSqYjj09zJjnGdh33VDj7JxeWn-pIAiQBcHe2xKIIWgf7gIlYc_4c0W1q4BF4l3s0Tm5OvlODrjexliviHPUPMChrzBtTysc8jOaAT4wv
+.netflix.com	TRUE	/	TRUE	1690641271	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1722175501	OptanonAlertBoxClosed	2023-07-29T16:05:01.298Z
+.netflix.com	TRUE	/	TRUE	1722175501	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+29+2023+18%3A05%3A01+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=2dedd3d0-2d65-4c4c-888a-dced04983550&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+www.netflix.com	TRUE	/	TRUE	1707919501	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1725199501	dsca	customer
+.netflix.com	TRUE	/	TRUE	1690650287	flwssn	90d574a3-6040-459a-986a-e45be041af71
+.netflix.com	TRUE	/	TRUE	1698415501	hasSeenCookieDisclosure	true
+secured.netflix.com	FALSE	/	FALSE	1725199488	thx_guid	81e05f3887ad62d62213114ff390c83a

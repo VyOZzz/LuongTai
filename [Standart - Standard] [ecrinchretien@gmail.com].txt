@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1701388800	clSharedContext	5c6acb23-8955-4679-af47-c4e221eaab3e
+.netflix.com	TRUE	/	FALSE	1701388800	flwssn	6fab3d3e-63a4-4494-95bb-d26aaf8f482d
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEOWpQWV4d9wfrpCKVnmvJZhg0fp6abTDAJo-bedigjrTYxJDT8h7OHj9UPIAbxyKJmWaUd2q2X2zNzQ58DizRyrJSLjXGgLav_vICComP4iEbnaj5rIBjHfG3kf7y8qTiaOnr-1uF2IxrA91bizbWOUq
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonAlertBoxClosed	2022-02-19T16:47:58.375Z
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Sat+Feb+19+2022+16%3A47%3A58+GMT%2B0000+(heure+moyenne+de+Greenwich)&version=6.6.0&consentId=e06ad1c8-57a4-46d0-865e-e07cf4ee340a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1&hosts=H12%3A1%2CH13%3A1&AwaitingReconsent=false&geolocation=CI%3BAB
+.www.netflix.com	TRUE	/	FALSE	1701388800	cL	1645289265869%7C164528922752892363%7C164528922765048262%7C%7C4%7Cnull
+.netflix.com	TRUE	/	FALSE	1701388800	playerPerfMetrics	%7B%22mostRecentValue%22%3A%7B%22throughput%22%3A0.130973%7D%7D
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBEBg7SqScL62lX0GGwfefDViB0B4ZxovMeYyxxZ6sotMdE1Lbkkmi0pJZSA6GYRzw6aP9cFllTm6kv9u1kr1TP1I2iSdBsJW3yxmDepv04zie2NB4gQkMK5PqQXx7UPqXetlLFguPoYn1oUu2R-pGWYX1KIgIx8kctsdN5Aa-AN_xXqt1nlD_XO7e1WlSX1_Yi3wvDyjIW1x1XDMD48U8rbNMOS6v6_FvJCjCJH2jvOAU64ziw-zM9p-5WZi2rr2i-EFmklNh6JD-MIQZVTRtFCnbO5QC4V-FmCmRtFPrVM1hDGxS_PMVs8uYHPgO3xDmHEvjMyVVM8ofMnkpY5KanITFRghSrA1X_LnMcuAG1O0Zj6Iaat2Z4f6eUt0bziRJli-oAu8KReMGkoWoZMX99XZYmYPvJAPpsbj2G0bwpi2r7_7dSpBFkefKv3_VeY4LWq4ruOMtbENvyK9u_o7DNPrIabjuu7eopnu_Hw2fTHje3R30YiSNRpgtBKYpecar_grgGdwW4Ojq4E9Z31Dddf3dzyYoDm7QjhNO_RzHKSMktmC9RhuqAnCZh3k8jvP3nTlQld9pEIe_dNoUo9wpCLy9LvszYWCSu5yiRgFqEyCupBTNXBsCK9tAfkONJwPnfR0c%26bt%3Ddbl%26ch%3DAQEAEAABABT5iatzMOeZWyjC45uSrvA8mtzWQ9SJ6YA.%26mac%3DAQEAEAABABQmnGGk7S8tE7fPn5nPOqxzmia5wKB3x2s.
+.netflix.com	TRUE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTm11BopBaaROWO8_GDOvS7COjmDIlluWo.%26dt%3D1645289322060
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	1e168ce3-53b6-4cee-9385-bc3ccfc1fc81
+.netflix.com	TRUE	/	FALSE	1701388800	profilesNewSession	0

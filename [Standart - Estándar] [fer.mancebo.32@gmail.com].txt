@@ -1,0 +1,11 @@
+.netflix.com	FALSE	/	FALSE	0	OptanonAlertBoxClosed	2022-09-03T20:37:37.340Z
+.netflix.com	FALSE	/	FALSE	0	dsca	anonymous
+.netflix.com	FALSE	/	FALSE	0	nfvdid	BQFmAAEBEEE8RV-OV51rXzZvA4fs2Bxg6u05AOWisbZuBwO1cE6GV4YmjchSmCzOvayMe2K9JHsXUmt5ZiVdO0hvQDCeZymf9Ca8jsVAGML19tvzpFfjWtT8zuek7M2RiUHAH-8Ye70SlMbcXL9K-A_UozaU2eeD
+.netflix.com	FALSE	/	FALSE	0	memclid	9004214c-2bcd-4393-9c99-6459d013fb8f
+.whatsnewonnetflix.com	FALSE	/	FALSE	0	_ga	GA1.2.435212436.1677623120
+.whatsnewonnetflix.com	FALSE	/	FALSE	0	_gcl_au	1.1.935560424.1677623120
+.whatsnewonnetflix.com	FALSE	/	TRUE	0	rokoAPI	%7B%22ApplicationSessionUuid%22%3A%2280445c46-c16e-428e-8bc7-ce2400494bf8%22%7D
+.netflix.com	TRUE	/	TRUE	0	NetflixId	ct%3DBQAOAAEBEPw5QSsiyX8-1BAmnWRzoVWCUNg-340OQ0HPXlw59OFUdstlylpAZeThtS5Tmkn9JFn0Mf2AxCif_xwK7ar3osMIJkBo1ToXCeryUqBh6igiLp7Fa-TG5I2bzjhWTj-EIWRgev2Zldp7RnNb5OUy315CUSotlLbaZGk6RnR9S2aCr5JpKYRAeZJO6qXOkWjAHpI1Ag1ztomA-otQiMbMWV52WZ3zK1gNnr3vQKBDtDXAcRgXMp74z16gLCQGJBHQ1K-3N0EI66muStLGJlv-m5HLJNyjCDfugfcOXaLt9CCflmx61pNPVPrVSISZ0qwPeqPEAIMhmH5QvyGvykFga8Mp8XtUOkQ5HFh9NZUE5OjRocPK_rya27nb9jWgGomF36-X_Rlt5qZXd9CN5gCi6GRLjJoFb4utAopidWhgYkQuWVIsKnmjNDBtmOJuaCW0K366Wc0vOHWMWND4WP5X1dkVIfWa7QNxdHZr73uDgbL-ivIdaNPO60P7givn-XZ12Qpk6XzVVnB7rD7Ggt7MkxAXGPj6Ck1PM1SC64lsCexHKBbZnakeHNyAhgWUc4EnoRofrbKy5N7Y8oiBLvLOKEo0-v4-EZhYrlU1x5fKGLQhFRimdCjAFe2UJk3cjtH4cWQezhYEeGCMDFBV5StnNHDcI1jLJ4TTYOQtISZJmG7MAwzXN3zWPpTmKPO-NyyEPKfIBHzzP1AxRH3Xhzs0lYpP-6rioOzPYbsnvexvII1kAbIVNgm5UBFPQtsjicaQKttPGAFU6smo-bELJW9VYaSfQXUqMga7ywdRTYJ3CUhQG_k.%26bt%3Ddbl%26ch%3DAQEAEAABABRVbwFLuo2pD6OW9YPlOsCpETr6IhuEMsc.%26v%3D2%26mac%3DAQEAEAABABSJmdogAnKPrlhIcpoaXYB6A1GygqQ9X7M.
+.netflix.com	FALSE	/	FALSE	0	OptanonConsent	isIABGlobal=false&datestamp=Fri+Mar+31+2023+15%3A30%3A19+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202301.1.0&consentId=4be08115-36cb-46e9-9669-6ca6fe859627&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&geolocation=ES%3BCT&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRIGPDA9I8rvKArurHJWSR8JCgzLaFPJnw.%26dt%3D1680269405651
+.netflix.com	FALSE	/	FALSE	0	hasSeenCookieDisclosure	true

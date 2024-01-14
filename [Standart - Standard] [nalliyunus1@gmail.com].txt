@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonAlertBoxClosed	2023-02-20T19:15:08.735Z
+.netflix.com	TRUE	/	FALSE	1701388800	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBEEUpXJ9H_mbxHPT1mQKZl5aB0DqwQ8Ipml30oWHLQKPwF4eXjQ3qwD-daArfWCSOG1aciRznyYE1i4nFMqnMI5Ir68KxjrSlegBNAeCfVTyrsTWy1kQmJYPqeRDJ5Jk5z3lRQVYDkdYd0ntbfO16qRFn2DxnbOUHE8nztGzabK228BRzQ93AyPkctBUDHeiPwcdeL0lIDW07VvhgbS7mHGzH6Rpd0lwFfX_0MfsBXWn-X-oSH_aRbWDiF9NFbF35cCj2E4wCWLjAWIcofm4HkwXyACNqlQHi_gQJhVZYfk3e3wRdreorhmuWCNSXPcmgFXqb-I6ElkrNgk8Zdn6f5YKYsuse6aHLsityWnqHm93QS0ygKqsJbuSGAq44IzQFsPXYwTpHe7OC-XZH585wD_lndD3NhaW8aATWZa3kfRt-j1zJtPfPD5MqO3kjdVQi1PVpt0lo9BCgqSVhHf_kZmJLIAequ-sOjRl1lFtop4uBUyg8qfPm1cKTEsGQwUAOWE7XbEjte_zWDvKL9E6FAYC9HMNYw1Fn3KWDyzXByEanosQnWZ-CqHWYnf2wG40KLBcjFeE4kCoO_UWq5R-3MzZOl4vZeqUK8X45ksDqcTyZyogQUb6qZKi7CU002x7qbWrf%26bt%3Ddbl%26ch%3DAQEAEAABABQGn7r-YBjHHqvsddjyf-yWNdwqumHlc44.%26mac%3DAQEAEAABABRL-ROwqWcP1AewzQrKI-YdAeDvxAYnNq4.
+.netflix.com	TRUE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTERGpdsvxt0Q-k994iQBhrENRT3273Yi0.%26dt%3D1676920579359
+www.netflix.com	FALSE	/	FALSE	1701388800	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEMaNpG5Vz2X7HJbGxQ0fWeRgI2V4heOkzLfxPx1ZK3Cunae4kSaW008g9u6wuPa1ZTZZCY8hUk4SoeVhOHwnLMjLb7BNr1qmZreiARz3wL-iQfHJt0Eac3OChY5HLdXqwTqkqYr0cXvnHE_YkdmdjlxC
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+20+2023+21%3A22%3A42+GMT%2B0200+(Eastern+European+Standard+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=7226140a-ccf7-4c50-820d-8365bacc2692&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=RO%3BGL&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1701388800	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1701388800	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701388800	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	4cbc9efc-842d-4655-bdf0-75d31cae4d5a
+.netflix.com	TRUE	/	FALSE	1701388800	profilesNewSession	0

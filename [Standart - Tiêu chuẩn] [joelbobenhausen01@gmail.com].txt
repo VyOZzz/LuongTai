@@ -1,0 +1,14 @@
+.help.netflix.com	TRUE	/	FALSE	1701388800	XSRF-TOKEN	930cf0e4-0fcd-4240-b064-c895c82196ce
+www.netflix.com	FALSE	/	FALSE	1701388800	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonAlertBoxClosed	2023-01-14T23:26:09.845Z
+.netflix.com	TRUE	/	FALSE	1701388800	sawContext	true
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEADyHWlxfAhHmogov0DWTW1gSCf7DiEGH-MF9p8zxakDc27tdOGESwPFyybw8v1q40al8q1iPwcRqq-afQDFrhH7M3LYlLZrCceRWNOkBP7x3hHd9yOqiKk5XN34X_B5nfH_UJ9q8eEKatzNxcLj-Tin
+.netflix.com	TRUE	/	FALSE	1701388800	dsca	customer
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	ct%3DBQAOAAEBEJcqnpoXXlWf_85VkBm3v-KCUNXzN_KgLaiqmr7LYrcwfuDrpudROqRi_yp5LBhu5_lX1roNuMjvUcAAzibUigDQ_554wm5dLAyOthRi_6OmbqqPAaRZ8UiPv5HEhDHVdH5z3B3Qit24vhvKcz4A5yOS4j1haCkuvmYIDUQTsfidqoIamgYGFlGHX_5DuBKBB4FOZT1P2F_3aiz7J-Xj2IjoVoio_bUyuMLa-JdelkuDyz6ir0ul8fR89XCBuAIF7GbgqrADP0CYIpmtsD_EjC3CuK_Z95PA9x4yGV9BKYMgayV0rqqJDAjne8cTn0MWhoFrBONQhrEmAVZih3B74Bh3hjiCiY0818frbU8zPzF3-4euAflOMkxcRFYnC6vx0f5S_dU-dxGaOFSRQC65uwV3AmO3bI_d-w0vdLDeQRedrTwWqsPsujBpp1fsfiewKEaMEVCcLBUC79suTeGoUQleN7MA6r3x0wwNTU52P5SMfpNgoDnWtXX6NADUepQ6EWE24O8KP_9-cyXyd3TQ1A0qlx_jW4CeVxLjIUXAwZOXljmvomnfMiL52tCv9FKIbHJwB41FI7FSeNQkviQ2bfg9GvCp6jOXvbvZuJhc4Ooe3qXLEFaCWlGi2aU3nigxBIjsDhY7CEwhuMgNXd8oO9T9wRGcBW30g3xTxOYflb05dQguoqbN0wgXwe4XkW_yKxujSLcQSSedYIQpdCRCaJllivSrP0CwN7X4I-F8rQuAD03pHUZyxOC6_09U-yhFfA0o3nD_InZzY1lPzFAtUvvEfsDcFk217uUk2uvqvbCjzGA.%26bt%3Ddbl%26ch%3DAQEAEAABABSkQLevKF6Pq6eJxbEVrZTCKss9SJx_1no.%26v%3D2%26mac%3DAQEAEAABABSF2S0uBr4jZz9XtNIs0446bVBTaTT5U-g.
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Mar+09+2023+21%3A09%3A25+GMT%2B0100+(Mitteleurop%C3%A4ische+Normalzeit)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=3db44837-7115-4a3a-94bd-1e086df4e58d&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=DE%3BNW&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRrwcnFOJpnRphba4Kf7K44v75Ul7JgVT0.%26dt%3D1678392564298
+.netflix.com	TRUE	/	FALSE	1701388800	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1701388800	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701388800	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	945cb37e-8367-4439-b20f-b442555ce355
+.netflix.com	TRUE	/	FALSE	1701388800	profilesNewSession	0

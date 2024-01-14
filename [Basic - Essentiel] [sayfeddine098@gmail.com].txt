@@ -1,0 +1,12 @@
+.netflix.com	TRUE	/	FALSE	1716886525	OptanonAlertBoxClosed	2023-05-29T08:55:25.435Z
+.netflix.com	TRUE	/	FALSE	1719910525	dsca	anonymous
+www.netflix.com	FALSE	/	FALSE	1706010964	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	FALSE	1723290968	thx_guid	0eec62c56b3c207a8a974fccd8ca7875
+.netflix.com	TRUE	/	FALSE	17224890540793854	sawContext	true
+.netflix.com	TRUE	/	FALSE	1720267723	nfvdid	BQFmAAEBEHpKrKp5axBn8EgtvEBzZmBgxDx8pFi1nXZsYLxQPPbW4dWk5ijQL4LLi3rGE9oELjWIhbEOx8zfXBd1-DCxh2OLDTnLlEoNrshjJN0uvFL1zg7rP3yzEBfQ9KLS55dHfP8OL3t2xaAvt9yat88PryEA
+.netflix.com	TRUE	/	FALSE	1721317815	NetflixId	ct%3DBQAOAAEBEKKol1TMiouCs5SwZmq5H-KCUKlpmtPsKT1usQ8YWK1TQ9ZZOO_6aFyp6NhGD_AyMRestec5CdtemeaNol4NsyhIQdfg8CpFBwZg8WQjPWsfBjPb7946iN75ywwM3O38c7lA4NbBAkNGRoW7vbkpl2p90BfRyF4ODwEgj54wMKdxaaJSgS-MHmie_2wh5v5sdc-Isjj9i6h4TL3Vp5rpaD3nHQ4jtaOaZW5QBgcXcxa_OWwYyqi3_d-7MQ9I2hCjHq15Q541uTydgrB5DBkVcn5ihOTftoFfPFL-kLyuFzG80HHqDOTpW2NUnmkzYSf_I4CsDn0240FxN0pSMEd4-E_BQ5VSb8xoLCBoycGfS1Q-__-9jXUi10Fb7wxa1_7pT_AICGduNNQeMyYIlxuR2W4dkobOWKv-Z43L43lRdmcWnsjyPiCL9TdpvrcNniYuSYa_3w-vFr2BNXiaosZbHX80gW8ouMqbqA8Xj2CWrOoS0xh1mMhfMpS7HjIrn6tk6ETz_j4Z5_ObfAr5U6wSijtqMrxF6DbmFKJAvCEdDDjyIfVkSKK2UL69FVob79tfze33r7muoHtKgodPWGd45o6Gtw_pfC2at74K6ZNCBvmv_8719QT3t5EwWOfRL0SjD17xQXLXbmMkKEZy0oI0w1NPoJLV6KxLOLOds_XMcvocTbSV41-9GgYBWWV1R6xw8WjuL-MNrEdj_41Ydw8D3OUodrjDxUrN60riepQ_IYfMC-_nQaWUlAeZt0WDVaVde0WaghRnJeV0R7e4L4xxYgtFSr4FZk2HBO4FmQO5V8Ued_8.%26bt%3Ddbl%26ch%3DAQEAEAABABQlBJ8_bZBYTTxjZr5fJbY7szQvL7-1T38.%26v%3D2%26mac%3DAQEAEAABABTMAA5bRtZSfpjEOrR3gMey9GtVPdnwa7A.
+.netflix.com	TRUE	/	FALSE	1721317815	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSW4OVD_7vh9HQElJHltD36ARWuxMw2ZZw.%26dt%3D1689781815879
+.netflix.com	TRUE	/	FALSE	1721331536	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+19+2023+21%3A38%3A56+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=e0b19aed-6151-4987-a350-ba66adf3904b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=FR%3BOCC&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1697571535	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1697571535	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1697571535	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,11 @@
+www.netflix.com	FALSE	/	FALSE	1697303201	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	17225271233810535	sawContext	true
+secured.netflix.com	FALSE	/	FALSE	1714732413	thx_guid	51b147ee5ba11776a8d49ad347e4d14f
+.netflix.com	TRUE	/	FALSE	1711708600	nfvdid	BQFmAAEBEP3gBRSjCx5B-gPmF_6WL6FgaZr7GzbrsiIXSYd61N8_ZrkxTwwH5bjYCLBd50CCC6JB2YHQXiS8qOGwvCoZroTn2bl2uS4ZY7uJPc2ZWkL_VHV-6F78fbZp8capLY1O5k6NAQBkgFOos0z-ajS-h481
+.netflix.com	TRUE	/	FALSE	1717434063	dsca	customer
+.netflix.com	TRUE	/	FALSE	1720559039	NetflixId	ct%3DBQAOAAEBEESRvUB3xKMK5gbhZGWqrc-B8JhQzCeoBoW0Oc6NsTwpG5qQHeOV0JUsNs_M-czS3wxB1EIIN4oTJSZTfrDtUktP8AwpWaOE7Yd7p27t9h4--4wxE4_E8EhdRQPXrdHWr5dLVT_YqFTjDuQ9J3yAsO5vFiK2ZhfuFt46HX1iG7ZjyCFUXjQ4L-l84QL9z4_kUbS2KDmP0HRHQXR6TzpWh8Gf0QGpaqiRWn6l4swZryVIlEmW1zIy5iXfI6n_z4XMbWxjEKQA80UsqNQIaoDACizcAms1YblL8ALrMi_a_cc0wcsk6Esq3pzzDpfeXUMd37VbRfLUcjvLVVYvchF26ReM4jcgwXTke1EPrziGfTQfqWsfeMIcUye8D1Ocw66Cf46ar5TOu-n-p8v49pYa4-6K5-GWZh4QgAgZ6n2rPSAcHXeDN4nFYkvYACIYjyTfXMxHVZ9zsfZFl1KQa2HZ0xVX_rCB31iwIfOpdK4PGT4Twqd-B-Qpt5Aja1kwEsiyw2iUh7qGuyX9hldQoN3I1u8QV_W9hfEg0Dtb4z8zLsipTAVSvYbuwyZRJaajphTh_UovyoTdU7qVabDrhPF1Ft27MfuSNmDhy83A-TC74CfFvcvJ885EAAjYtd6tUplq8MyWZthvy0G3CTUZDstOS6_yP5jl1DtiKj645-UDVa5xbNk.%26bt%3Ddbl%26ch%3DAQEAEAABABTjtzqE8Fk-i4_O1_F8mPkTvyjNf_gVKiU.%26v%3D2%26mac%3DAQEAEAABABRk9_ga7urmeWNy1iCfUDbYPrN1dB1zM78.
+.netflix.com	TRUE	/	FALSE	1720559039	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRmtcV_9IVxiAx0Yj1VhJbBqfqYa7rkYfU.%26dt%3D1689023039812
+.netflix.com	TRUE	/	FALSE	1720559130	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+10+2023+23%3A05%3A30+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=d9ebce5a-b9df-4809-866f-7f3855df48a0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1696799129	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1696799129	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1696799129	netflix-sans-normal-3-loaded	true

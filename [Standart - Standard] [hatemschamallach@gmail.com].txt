@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1701388800	memclid	c9c46d0c-caf2-4b0b-827d-d2be035a21df
+www.netflix.com	TRUE	/	TRUE	1701388800	didUserInteractWithPage	true
+.netflix.com	FALSE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBEKvhQbCCGpg2rdzBcItd9wKBwMIQ6cmwU2S4hOxpQv5BfXD2UEBpnyhDlu4M71RFz-aBZ_PV5yKDwri91Ji9s-8k4zpYjfbqWd0il8Em8p1OK9b1Yiy1_w0iOEc8RtYaw2TlH0S7P1Zf0iJ2NhozrWyoo2WkB68IVK0j5iH5_i3_8gXieDj2YLJCB5O9iYqz5Gjq6d2fu_1_7i0rEjB2TfUXr1EtpR7zVRTQncSQJ7cfdgjAL4NxfWbUBOL0fCpKpxjrIUWtH3AvtTRTZ7867yeEe96_bhj4Ob78UvpFl_QeWtbWFkgm6cOrVs6-APB9pfKpjyl83D1fObUV3hjO4fi0YQa9dIKsplFGaovVzq9QhF7MCChKaE0HAGUg_0AlUIcR1BlTr9dAkESktK_jvAzsCobGz4-wNasSuMaTDDr2f2kWulcARHFhqDvehrrUPQkuSnbXrFtL62q_PHsXuAhepps6HUpWG7W0e5BEFk072yrYT6R9mqeYM4Gca1p_YnHfIeza7JJfQVU-pic9xJfnTRcVcdl7HhsbdPZEU78bxpEQ7eKA7ADWD4dhWzh_LS2lKFiyS2WruHJnlBVZKxjFPaD_mwigoXezu7FT_FPBeu8.%26bt%3Ddbl%26ch%3DAQEAEAABABQ457IKgoNwSamkZBc8hoEdHBDz9XaXFTw.%26mac%3DAQEAEAABABT64H8cKMX8r_x_b4lLuznPgW_GDRaAzcE.
+.netflix.com	TRUE	/	TRUE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Thu+Apr+06+2023+17%3A19%3A23+GMT%2B0200+(Mitteleurop%C3%A4ische+Sommerzeit)&version=202301.1.0&consentId=71cef5c5-d882-4766-891a-7c3f14c817e3&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	FALSE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQrr-7aV6UQA-zuLnhsW7hAs3eXvQBSSDg.%26dt%3D1680794358573
+.netflix.com	TRUE	/	TRUE	1701388800	dsca	customer
+.netflix.com	TRUE	/	TRUE	1701388800	flwssn	bb4b9c31-a2e7-4ff6-ac4e-8c7d435ed286
+.netflix.com	TRUE	/	TRUE	1701388800	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1701388800	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1701388800	nfvdid	BQFmAAEBECkyL0W5wGD5dmLe1RFTuB1gFgWPOfEnWyPodSbjI8p8aUHIjPvunWrclHdquyAW_QUfdKt_dke_tkYzCF5rRsqAUAQPPcbIAN1oV4_DM62ofE3oprXur2LmYNCnHZcr8uWveiumN86qVpPDPWeIb9Gf
+.netflix.com	TRUE	/	TRUE	1701388800	profilesNewSession	0

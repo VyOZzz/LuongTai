@@ -1,0 +1,13 @@
+.netflix.com	TRUE	/	TRUE	1701388800	OptanonAlertBoxClosed	2022-10-06T00:02:14.837Z
+www.netflix.com	TRUE	/	TRUE	1701388800	didUserInteractWithPage	true
+.netflix.com	TRUE	/	TRUE	1701388800	dsca	anonymous
+.netflix.com	TRUE	/	TRUE	1701388800	sawContext	true
+.netflix.com	TRUE	/	TRUE	1701388800	nfvdid	BQFmAAEBEPSSxJdvtu0tVUkvXEsqWn9gqK1pIxynNkGZ2q1dqWZRvHOUUnglowTLmLZ6Lllrv9EAdymLPK6WAWGjdOtyFScFnswiZJyTsDR1Pkj22r-K7d3eXidufM2vid-RNrOe__QYoFeoykGM6epqNvyLLFFP
+.netflix.com	FALSE	/	FALSE	1701388800	NetflixId	ct%3DBQAOAAEBEMaIj7QVAzo7I2LdIsD1lbWB8OY2dEUEu53g-YchlY8-FZYhoCX7eG5kGkvljGd5iPgG2iwzW2mnpyWjH34-HVxz-iaylW47V6Y44TOQWmhxCpvt0pxiUFoyoGT0OZNyfT0w6-BF31OfMhwTTTEeol219PUElmCq80zo92blsK3-DP2iXd675fhrRKGuhCg2uxopEwdILaZajc-3ju2yYS67ui8oMp53o1GftQP1qiB_jeAQPwCIqx4CnxFcBp51uf7ra-v3g8MlDfpQDjmGKeBS6MVukQ-IDZIc_W9U9JldnkN9Lb196_LRH4ITeUWe-7tTdznLYqOr_EDstK5T43E7_q0XE21auYvSGe9aqxmPBRHsjWX_r3xZBSwHdtoc9OlF7ujZo4Vu4D5f0qgfsigbPMBhPr93RV3XDzJkfHoRVGC12MHnzqoaWBH-MZ6J-x5Zi1tSsVtXljfwCF9mPoznxDgmmPx7WL7dU6kJXUkEXKUavN6_NZuRH1RoJlxNA26mYUEzJUSAMNikPRIHmaHYQSbFwGd7j5VaYZf94DMJ3Dh7u0tU7EYwItsxuqW0OcwxmI2NhK_2c05lLcYPmcVZLJv5RKCfi-W-dqpDTCufP8ysFBOhWIQia8C-VoInYzzloFwgSM186R1qKoruqA5gC6ZVzbmBrhjQfGmboJWYB9Y.%26bt%3Ddbl%26ch%3DAQEAEAABABQpXzLrzw4NPswvycyfQgqiCzct-hE2Lko.%26v%3D2%26mac%3DAQEAEAABABRl1b1QD-c2rN2qxzx0v1h_DC3TQU5ltZw.
+.netflix.com	FALSE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRmGABuJ_hZrTde1A7fihBo_646xKuuQSE.%26dt%3D1666383352754
+.netflix.com	TRUE	/	TRUE	1701388800	flwssn	6622a08c-76b5-4f23-90dd-45a5ca697f72
+.netflix.com	TRUE	/	TRUE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Fri+Oct+21+2022+23%3A09%3A45+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=6.6.0&consentId=6d917275-3f54-490c-9e6e-fe7270adbb14&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH52%3A1%2CH48%3A1%2CH49%3A1&geolocation=IT%3B25&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1701388800	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1701388800	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1701388800	memclid	f0cbc291-de3e-4cfb-87b2-2fd7aabb14b9
+.netflix.com	TRUE	/	TRUE	1701388800	profilesNewSession	0

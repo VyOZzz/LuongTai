@@ -1,0 +1,12 @@
+.whats-on-netflix.com	TRUE	/	TRUE	1701388800	_ga	GA1.2.112508694.1625736965
+www.whats-on-netflix.com	TRUE	/	FALSE	1701388800	consentUUID	82a90cce-75ad-4a14-8ad6-97b7c97b1aa3
+.whats-on-netflix.com	TRUE	/	TRUE	1701388800	ccpaUUID	e3cb2271-a9c5-4384-b5f6-d4a315a1c30c
+.whats-on-netflix.com	TRUE	/	TRUE	1701388800	ccpaApplies	false
+.whats-on-netflix.com	TRUE	/	TRUE	1701388800	dnsDisplayed	true
+.whats-on-netflix.com	TRUE	/	TRUE	1701388800	signedLspa	false
+.netflix.com	TRUE	/	TRUE	1701388800	memclid	4dbcc9f0-8449-4091-967b-4bfdc7e0a2b3
+.netflix.com	TRUE	/	TRUE	1701388800	nfvdid	BQFmAAEBEA4ujFS8iiert8Fg1sr1MPRgbUQMNCIUfS3HovRkk3543LItB9cVraMpogx3-MWGV6i0NZw4FoN8LaZ5okRn7zr_7pdC2SGqSdI8pj_VbM1c5ikNqnagFqc9exqZQuRbECzZdi9TTx_aJqLrWm4D2vBd
+.netflix.com	TRUE	/	TRUE	1701388800	OptanonAlertBoxClosed	2022-01-30T09:54:15.336Z
+.netflix.com	FALSE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTveD7HZQUX6gzwNW-GTu_zLicZEcZU8jY.%26dt%3D1654674233888
+.netflix.com	FALSE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBEK5qiMEmOVPBqDB2jPJ-we-BwOuos8xAwKmSdQdzmTN1MtKK8Fak2ZUPuwJpxJD_Y5dxwt-RuU8HI9d0fc-rMjrqLN7AuDBw59YvQ0lmbyJCfNdaloROgIajnsA2hFQFLQnNGubfEA34575Uam739LlPeiX39WgzvNFbBhrEAzSXP-6OsjdoqbjSQ0MlZ26latlqOBosgvZH20i8fI7MK2W3q8pn_5kO9nskgwCE0ex1b1lRpWIZpuhI6Hv8Xxw_5ASEC-scsQd4Npj-yURpRQnmPGNotd-2z79YyVx_6vKn3X32qpjGkDjtSJlrGHV1hsy1T2mOUmaqZQ-2GZmwsjFs4pTPlPwNbzQx_4mzGf-6NdUKA5wEPMDyEikjjLBbwZ_0W_Kq55YhHY0CNgLJDJ0aojp-lh3d-8pmgqi2pPWJl_hdlNMnrj-pgPLqZF9_NE4lFcsw_i4j32DCA0g0bGHWPZLw31Pbll2Tlux_ZMTBuE9-DLFuPTMWMbW5iWxkToJSs1BdTESjE3lcNciOlHygTJgoc1WuGZoxiWlJTy7WsCOVAkVRRfXtGJTbyG8xV2B9lWWuG2GZIX5jgH7eQ7SAoK5o5MfuUL23YK9sLQ1lmt8.%26bt%3Ddbl%26ch%3DAQEAEAABABSdTg3rhm23sqqJAULH22bA69eyGr1vRlI.%26mac%3DAQEAEAABABTQE01BPtS56Y5lMxb3_Zw4upTHie47pGM.
+.netflix.com	TRUE	/	TRUE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Wed+Jun+08+2022+19%3A43%3A59+GMT%2B1200+(New+Zealand+Standard+Time)&version=6.6.0&consentId=62199939-9543-420d-aa35-4f6c6fd928e8&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1&AwaitingReconsent=false&geolocation=NZ%3BAUK

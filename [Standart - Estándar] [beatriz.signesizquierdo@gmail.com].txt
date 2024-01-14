@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBELmlF5Axto5SMI2rT-SLTSWBgMn-LYsuDn_k0XrlS0_oiiTAnmqOHRxjrz5OecaSjGpgnMI5AGaKB3aTcunV_VdvcScT9a6KfG5QRHjs2Zvd-QXxHeOuyebSYXZ7abcMEbKX1jN6h09IwU_b45EHD_04UCXR95BU5d2KZJApFGWCCwMvX3aIEAuvFrDGv6Jm0R66pAhMjCfdw400w9VEtq1H2uAVCAeMQfz4zeccw1UrzWm8rTrS1ompQnGb6a3-KfsLG1fnmKsF1x0Xoh_RY3UmqhbnrxGjH7pvEH_Ct--HevFiIZrF3Ga9IqNARiEGAqf3JRizBrHzrfgzJ2LVLfDETxXkU9wl587Sn3JxwLuSKq_pY7tOjDmbMieITadjQznSDvQnbK9QJhiZaZ-g3m7zjlRTbETBkYRTaQKr8ZgwcmUCL7G9h8HeRmO2aTCcgkOllbhPrPuTRCfrDi2r8ApVmJjKTbrR4L7yOAiHDUBEdwc2_C9DeuUF62S81eBescoBtkGY2TE8vREBd-YCFIfbdw..%26bt%3Dusr%26ch%3DAQEAEAABABSe64IYu6OK1xa5MZWYsi0HRZU1LFOJhj8.%26mac%3DAQEAEAABABR1lDJW6db8Lbv9qUeqBWIrs1OySC-PYsw.
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+06+2023+21%3A45%3A57+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202211.2.0&isIABGlobal=false&hosts=&consentId=6c632584-fa21-46b6-9a49-d0897decc2b7&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRymh2GnzCQc9gcyPHr080e9u_v-1qxGBY.%26dt%3D1673038830377
+.netflix.com	TRUE	/	FALSE	1701388800	dsca	customer
+.netflix.com	TRUE	/	FALSE	1701388800	flwssn	6187bcae-0cf3-4588-8cb3-baeb1307b846
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEE8GcGZQg0BirS7NLaV-i8Jg4zMKDBT4V36s9prgLISnm7n0rytp5vHYE17VvqZKdLYlcVNMCpnoNezIwO_eBQAmEITnCIIxQNllfoMxNbGO84boRb3F2a9FLsm_BaMpy6NSjgcpn5JozdiJPZH4T43L
+.netflix.com	TRUE	/	FALSE	1701388800	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	dada7eaf-68c3-491d-b7bb-1918ce8288f6

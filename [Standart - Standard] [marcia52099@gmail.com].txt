@@ -1,0 +1,12 @@
+www.netflix.com	FALSE	/	FALSE	17227919415341095	SLG_GWPT_Show_Hide_tmp	1
+.netflix.com	TRUE	/	FALSE	1698344920	nfvdid	BQFmAAEBEMKOb3co8Z0CO1aXeU97dWdgdiHqF8a28leEbKnYspMetl5xVsj1t55iZRAFCy6BpWJwos-pteS931H04WMMlKR8gnTG1lpU_Zzu0xmX4-hBE1qstLFcBa2z8SKZoFM9G1avPULH0wz2JKgQJ8E1wE2R
+.netflix.com	TRUE	/	FALSE	1709195380	memclid	6c2ae01d-0834-4efb-9d56-02a89d021d1b
+.netflix.com	TRUE	/	FALSE	1722365886	dsca	customer
+.netflix.com	TRUE	/	FALSE	1719423844	NetflixId	ct%3DBQAOAAEBEG0sBFslI-r6ertJRYIGhmyCYNJ65-y7SlMVUExBPdQOvPxLKt2RULkiuzUpVWprCCjidvAgTQvMqwSqAJIzcnF0m8J6D-lbPyAP0k45sVAve5MxMXgz8rHDcbR0oQhq5RZDztheIAgCVC-tjl7e-J-GAOPnx0jcXqWdvTB86DKMYT20kflYmQ-iQr0gZF52eTVVsOzEWRC9HCFJM8RrOQH1gGU08qe7y9qLWx1uZkG6QDfa0lKp9e3TjHLKtCaEi_2AaG7KjQh3Yrq21DQnRdB7lPA9jHDw9hA28sZLqfZ74xbd0lK_jUNJ2AfRJxrDYybp5OipKqAFVfGlAcNR_GjZZ2JZscxpafjSyFClr1xLu_VWFYn9ylb6volue1CepZIkD768anhMplsTnqCZeqHWOLDjeKHn8qCWHmJ-I1GwpodECzAIgqVK9FrS-nGN-ZsKNtGXNJypRhDzoKGDEZmWAtPkhe8zYaXjHvt-SoFmN5Ag-vIGhZ6BOxj6JBCQnQ1V1bX9ocg2MzWbj8jBWNxp840yyseLQcNJqcnFv4967ZQakPVekiE1BjXojp55TJ6Yt0HxlTpzS10ziQJ5nYjmHUgaNroN4a6r5f4gfc3qdnQlkmLiHJEGvwxKOaJ_vAGlR2-7k9cOQo_DCXDDR-XGx_UmePng8Cvfo92ugcr3qykCk9QiHAjR2hyvZmrUiqQcSPg1Ww4jD4JxQnfC57XX9PlLWgdgffJeuq2gfjOur4NCwZSwhqYG8JpbmBg3JLHmXY80oPo4FdFuArHd1-Vcr00JD493hrJBH3yjmAz41A9WaV8S561ids3oqevtPKcT%26bt%3Ddbl%26ch%3DAQEAEAABABSg8kII7lbsNtzNZC7jlT9rPVFF3JKGcME.%26v%3D2%26mac%3DAQEAEAABABSLfXxaAZNt9iGvdvzTXkifAvx4DQHzwFY.
+.netflix.com	TRUE	/	FALSE	1719423859	OptanonConsent	isIABGlobal=false&datestamp=Tue+Jun+27+2023+19%3A44%3A19+GMT%2B0200+(czas+%C5%9Brodkowoeuropejski+letni)&version=202301.1.0&consentId=c8f8a9d4-ffbd-44be-9272-60ccf0a19dc6&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&AwaitingReconsent=false&isGpcEnabled=0
+www.netflix.com	FALSE	/	FALSE	17227919422038089	SLG_wptGlobTipTmp	1
+.netflix.com	TRUE	/	FALSE	1719423844	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS8yAPrTayFblDhjyogBJo7dLQPhuScxQY.%26dt%3D1687887844070
+.netflix.com	TRUE	/	FALSE	1695663858	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1695663858	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+www.netflix.com	FALSE	/	FALSE	17227919422048178	SLG_G_WPT_TO	pl
+.netflix.com	TRUE	/	FALSE	1687898892	profilesNewSession	0

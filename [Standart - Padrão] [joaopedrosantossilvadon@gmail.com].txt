@@ -1,0 +1,11 @@
+www.netflix.com	FALSE	/	FALSE	13341547616000000	didUserInteractWithPage	true
+.netflix.com	FALSE	/	FALSE	13358827616560270	dsca	anonymous
+.netflix.com	FALSE	/	FALSE	13355803624758988	nfvdid	BQFmAAEBEBfbFAEvb6pEtX9EQfq6kihgj9sQ417wlnPZxenMu6sD9aeUlM3be5lRQhL83XHupldxqDyr6dmmO02xfQb0rXE6HL0PBagYjAcNqhsHJF5lBpcRV0DlPrWYpmWttxM5OvqNSxOcQRf2aNAl9X3Cs_09
+.netflix.com	TRUE	/	TRUE	13359229399266243	NetflixId	ct%3DBQAOAAEBEAT_-InuwhRaEJ8gdjzczM-CELO_lpGTNMTInnrlaHoD4LIXEgjUe5Xaq3ovqLV9MlHNkFIiyAzZNjtFn65JZlmHnNQMSaONynghB06paAJqSi9Pj-RtyPatZH8si48rtdwt7MObevfN_nFDTeECF8QhQKiPNl4lOxzx2btYlWQwPZD234-Z-9snHf5oiQXXPDyp7TMwefFqBu60H6i4Jyt5aaCfFVWFBhBYzhCV8hVYhcxLepn3PHZZ2C_ZmJl2ssSHUDaISiR4lIZnQC81TRcASBaxKxBxgbZt4OxqWnhKAK4504AO-dk9vHVu_m-yuNJ_RZCcmHswI7Mhb_qhyLK1qlwLY_LvrjgP_zkLxeWYvCIRdhhZZwROrVKH7NHPtjxKOPiweRIgD9wH9vncy_5vreTesMqnUAuWQHQxFo3bFxjcqOtKxu8YE49s7w4H6zW_cZuty8SPh1yhyFYeamQu9hyJMoT1wl4N0dHDyG28ykSNy47JfP-TijyL5c1vBLEXavacDvRckdUYHfPhUOelPxrdyPUIdb921Lq6IGKmy3iJr5JJQnqzvHDBzkRX5aFVB_Hhm2JScJKvOf53ktwSUyyy6_jhGLq3aCeCCSBUmzBAC9o4uyS1IVfgughWCiqlNEr71wz8U5XXrLADJVHKDoOfeRDe_7XwPhncgfT2Em1tg2V3xH7aZv-JRODUNGGG9OP_OT2swolPwgn2oR2TyA..%26bt%3Ddbl%26ch%3DAQEAEAABABQbnCOvo3dEsXpE_XSgMdwHZfJYTIcSVHk.%26v%3D2%26mac%3DAQEAEAABABSUzI_u7q4BdaVzhLwZntr0e7W_Opj5nPk.
+.netflix.com	FALSE	/	FALSE	13359229401000000	OptanonConsent	isGpcEnabled=0&datestamp=Thu+May+04+2023+14%3A03%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=c60cd6bc-9928-49c6-bfc3-11c8f01b97a4&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	13359229399266180	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQwORzpiLwibTl4zi5gB0aEh-A--guNG5A.%26dt%3D1683219799678
+.netflix.com	FALSE	/	FALSE	13327704199530431	flwssn	05b7d3ab-314b-4336-8671-c60061b32358
+.netflix.com	FALSE	/	FALSE	13335469400602686	hasSeenCookieDisclosure	true
+.netflix.com	FALSE	/	FALSE	13335469400602769	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	13335469400602746	netflix-sans-normal-3-loaded	true
+.netflix.com	FALSE	/	FALSE	13327695627873334	profilesNewSession	0

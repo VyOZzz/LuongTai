@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1642985078	flwssn	b8dce4e6-6da6-478b-88f9-1a5841449e0f
+.netflix.com	TRUE	/	FALSE	1674511823	memclid	cc0f5101-c4c3-45fd-9816-e3d611e82705
+.netflix.com	TRUE	/	FALSE	1674510278	nfvdid	BQFmAAEBEFIjm3RWomgVJ-b448qXTUBg7h2sabegqk7YLbZ1w3BnW3Ejezfie3xusmPrxS_CvaGUmjCIygqzd335BE3Id_mp4FoDdQo8QhAK2QGiqBNfT_kv8CgZ5Ku2WrqmpwnRfM9Ja8caggjE9yZdyiTUnG3X
+.netflix.com	TRUE	/	FALSE	1650751671	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1650751671	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1674510294	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRaDHAL4T3WSvQaH2apl66rbsnmnowUIYk.%26dt%3D1642963494224
+.netflix.com	TRUE	/	FALSE	1674510294	NetflixId	v%3D2%26ct%3DBQAOAAEBEOaFe8PkqqFDiJ1jmtYZhciBwOn8Hik2biENrnjbLtaMSnFBUmtItAPJxfHGbfg7imfxNQwxz0QqNlxOJaGTSCD4LF1bNboR3I0wC43avhqkEKg6p6XlGI0L8-bOy9GZafz1Y3rId99rlUagWTvgnUzRHOWT_tYxkSsuBJdX2GpgdW_LYFfPBCyVONumKwj3H5EJ-hB1AnX78lLa-PD0YKMYTt38_vx21UuKPeeYZBG2gbXnCInWnXEkwgPudmskgl65vtVRS2CPHuMJBNW1MqfELavKKhzsngJP3kemKwHZo3qxCltnYYqPd9ZEGpTBUQMPFcBConTTRjAN42-ac4pHiPhXbwHmGmBLQjVmVP1NHcWXVWKjmt12UU8Eh3CUzSUz1MYrVpiLVDh5Dt3SD5mBF2bjRJWApWwxsnW-ukiIuEBQ4CP5yUqUcpo3DcDCpVMnGqplK-oJljA3eQE8QfYuZ08UM1X9ilweU7XV8Elzi8OSv0YyPDgN_1fvqpYGdvViBji9zxeqvGveehHZPGRFoo3lbbThkyFxZQGTNsXERvbWEZxRRoPBWzvMS32JpivIKgzIFHw2HZTBnBmkhC2UjgCP-ZIIldb5KmIpuRhSV90.%26bt%3Ddbl%26ch%3DAQEAEAABABRief2HwXGHWtiHqRMvl9CMrDeVGErc2vk.%26mac%3DAQEAEAABABQB2VswH9NlXk6Icya8g_AgT_JobMV88OQ.
+.netflix.com	TRUE	/	FALSE	1642977615	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1674511671	OptanonConsent	isIABGlobal=false&datestamp=Sun+Jan+23+2022+14%3A07%3A51+GMT-0800+(Pacific+Standard+Time)&version=6.6.0&consentId=6a6e1e53-492d-4bac-91c2-83a3102bbc0b&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1650751816	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A55.6899%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A55.5387%7D%7D

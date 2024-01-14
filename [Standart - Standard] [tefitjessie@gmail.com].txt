@@ -1,0 +1,8 @@
+.netflix.com	TRUE	/	TRUE	0	NetflixId	v%3D2%26ct%3DBQAOAAEBEJIgN-g1U-kI-_s480286UqB0PepmHJ8puzWZKljNdoqBSTCYFnjiov5HGIyfqL4XEZHDMi7ait_fg1RlPHF3aYEDP1M_5Zy2Eu4sqRl6IPgXE66mrHP15govoyn18_HS-M5o_RfvhTdDuYaBeGUI3VIl-cYD7b6jA0C7_nPoHhjEUol8BYd12BDXIfRD8tlA9AN4B7_SMqDWf7Y2_4QTDJlM57bvrgl31T3VDKxlzuwC_QdrMmsVT0GK6pVM4nc1MXBbYCt-Ewn9QriannMKPVUTiOibb_Z08ipaDMObLScABXtWCw-AQStXYSZXH9n_rw-HAZgaCbue4wGkDslluwzGkTWInLW19pTmnHtVc5woVsl3hA-CEY4YQ9ul8cX_vrBNLPPLx-7k4yxbabtehkRl1sWtcfVxOmv0GmJIOqCAoS_P5AldncTQt8e22qwTyt0_1qi3Bsq-wDU6j6UZaAzlXhFHEMFXhW4bk85DmOekAS3vGBjzVLgFavcKeBxA4CqL1dowPW6u3bY1R4RK1mqNNIq55xMwLdWUICxtbeENL5jzzkEHoBdpUrxcG2dVObtdL1HKpyR7q2r9kqc4zVFP95gAvnSL7N_2S-Pi4QJkm1qs69qYzXfiCLUq_wwlGIo%26bt%3Ddbl%26ch%3DAQEAEAABABTlISGqKrIzuNsyFwFfKP-l-FXIuAV7ko0.%26mac%3DAQEAEAABABRChGM_1UpO0QV6KNyEPHKps8kEvpNplB4.
+.netflix.com	TRUE	/	TRUE	0	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTZczXMyOdgDr92By-8IvymhYyh-31MS-U.%26dt%3D1675702026649
+.netflix.com	FALSE	/	FALSE	0	nfvdid	BQFmAAEBEK0qSM9-T2_-gCo2MCATR_VgLxqcDj1yKQyPNmj3SYEzzNnnvoxk8c1UOtrSt2G7lWVvG7CHcCdR6UU7uicAZ2b2k3W7QZMnzM8A4VjZFinPfSNcpuzN7rCrsF_nstFfbq3A4Eoc0RX6mQUmidkAkkHb
+.netflix.com	FALSE	/	FALSE	0	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Feb+06+2023+17%3A47%3A23+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=bf83e930-92a3-4920-81ab-fc9afdafc43c&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	FALSE	/	FALSE	0	dsca	customer
+.netflix.com	FALSE	/	FALSE	0	memclid	b27581f5-d600-458f-9420-240629560508
+.netflix.com	FALSE	/	FALSE	0	netflix-sans-bold-3-loaded	true
+.netflix.com	FALSE	/	FALSE	0	netflix-sans-normal-3-loaded	true

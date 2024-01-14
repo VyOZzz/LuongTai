@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	FALSE	1701388800	nfvdid	BQFmAAEBEOY0zs3FyKEwX4Qbjy3OkHdgCskGHJTowGXjr3mKi8qhdsXu6FeFG3AVMRJNjIT4e0eojXsTpyx3vVL7dHItG9HYgtOtOWBMq6kgG6x4zQHIwBgaXIes9HJB6HLInlFb5mEmBZay5KpUKL7LqFL5QW8R
+.netflix.com	TRUE	/	FALSE	1701388800	OptanonConsent	isIABGlobal=false&datestamp=Wed+Jun+16+2021+15%3A48%3A07+GMT%2B0700+(Indochina+Time)&version=6.6.0&consentId=1c9298c5-0687-4626-89c6-f33462119bdb&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H1%3A1%2CH12%3A1%2CH13%3A1%2CH27%3A1%2CH28%3A1%2CH30%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1701388800	clSharedContext	f31e6fe0-fb3d-41da-a2e1-8fc06527d42f
+.netflix.com	TRUE	/	FALSE	1701388800	NetflixId	v%3D2%26ct%3DBQAOAAEBENGwjLfMFt-jHPgE0h58zcaB0MHxxsqyfJJj0npNNehvRADg66g4IdmqA9ZK3LKoGeU6Z-m2Q4HTZXutczkPoui0t4uMogY_2pg-6C3wn2RHjMG-lXC_2_sQ4Yj2WF2d7vGkmDnMSX3fMUI1m3Rmz7KlAFrVo5wyoYKmfqZN3sG4AINdJxl5qSm2NC0_D4IpcNl3b44uUKQOmthtN-oitFYb3cdIZJt7xI5qH7xxkX7W6x2fKDIWKd7ks-ZVJqOEgeWj2wnmasNfaXfyM2VOqoIf0_RkzyKwusC0jjNolka4NYoQlpPt3q8KKSSEbe1pFCg7OF7NpYCncFP3UXUF_uRAf6SFV2kACieXrQpT-teO_VlWp6_wD46lh7JZyIw1iDXtZV5RrpjjaGIiUV2iG4JU-mSZrs-Y5WuawVIweNa3y8ukNP-tbS89FJpppIyVlq6mgMUCvUETHeVnWATZVaSgbw2ZOdr0pF62AwTz2Ecfxl_9l7B7kVko2v0oKMQr7RdPTVIbKEirhlG-FAtN8WHHdrE2wfx6cyQk90K_vDxJIudMGUfY3cywrK9hVXzPrunkSkRd17vfNzyivv3sNEoH8QCnzJOS3i9JoRbOJmmZj4QxQzME-kvYLsbMi9OnaeP9%26bt%3Ddbl%26ch%3DAQEAEAABABQcKFxO31BLSML6LmybDg97vt90j_mX__c.%26mac%3DAQEAEAABABRyE02le0K4nSOR5DtvJ-VXn8l4n8VL5KA.
+.netflix.com	TRUE	/	FALSE	1701388800	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQg46FeqHhPthz3OCaI-Btvy1kvUCJ8UzI.%26dt%3D1626365026846
+.netflix.com	TRUE	/	FALSE	1701388800	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701388800	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701388800	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1701388800	playerPerfMetrics	%7B%22uiValue%22%3A%7B%22throughput%22%3A61018.8%2C%22throughputNiqr%22%3A0.3443857526943464%7D%2C%22mostRecentValue%22%3A%7B%22throughput%22%3A62540.2%2C%22throughputNiqr%22%3A0.3709103976284033%7D%7D
+.netflix.com	TRUE	/	FALSE	1701388800	memclid	6ee4c24f-dee7-4262-a4e9-1573e9a9d928
+.netflix.com	TRUE	/	FALSE	1701388800	profilesNewSession	0

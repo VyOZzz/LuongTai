@@ -1,0 +1,10 @@
+.netflix.com	TRUE	/	FALSE	1701897893	memclid	6c85e757-fa63-4a5a-bd44-b7e06fe37df0
+.netflix.com	TRUE	/	FALSE	1721605577	dsca	customer
+.netflix.com	TRUE	/	FALSE	1696288540	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1696288540	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1720048534	nfvdid	BQFmAAEBEGb-c7EG-5LnFEyjGP-T_7dg-iaz4H4qPBuadX_fktJtprYiDaxSamzi7wgf8BoDVtywhMRONfj1Db3oqeUhHZZZ4zqt4cuGN0RPzwvL6Olb0jSCN877d3-ak5APTPzsZUzIfQVkX-Qfi_xlMvSqnbPb
+www.netflix.com	FALSE	/	FALSE	1705792529	didUserInteractWithPage	true
+.netflix.com	TRUE	/	FALSE	1696288540	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1720970369	NetflixId	ct%3DBQAOAAEBEK0PcLRWAYUl9JmDI_SXMaSB8C6UyfMPXitLUr2fy9j3MPBwHX5qYYm9KhKayeXjlnRTc8T_abUkauARHqCExRT61NPaLSp0cFfs3yAm4xEfaOxykahtixtBql-fa8AeWoi0O3DnGHWZKZ2F9xjHEFWHLEl159vr499J32byRyDbDncteCAz-Gb-FERukEu-_GMi_2PSyGe2Kn-t0RxXi0UNSXT4lNhE9TFABGKlbvdJopC51BTGFVWK9syX4wScci0Ipbk3mzmS4bUsnQxZf_VgQFahj_3739iwzJKceTUJ6SEw_g3vm2QvZ7OjFgVKgMIpuhn_Jrpq6RV9AUMMeeMhI8U7FKCZLz2yCKF_PyfB1V_ZgUZMhCPXk_ruP4WRcZrLUjk8McILnRvn9Fveyj-jtIeGEEW8d0vj25nf-ZCwy8dtPM-UlT3hjKkN7LG08yAXONh-VYxCihxLXcMPQ3fJa5qACXoa48iE9wFBW0GNgG9OYAt10vRPRhoqn322aEP3DtctvakIIuMGCLJfM1iEvHTw9sWNUGsAz4DDY0KU71iklg1Gp2JcimPnJdJNrpeNLrPznlShAjoiIHv5VoslqEn5I3yy8lsb4X6Tgf6vhzRSRky6n4jw23gD5gNsIfSVsIvE2xB0ygKjGGqssG_KJ5WQuQMNb5K0--u_oC1wI9U.%26bt%3Ddbl%26ch%3DAQEAEAABABSxeVwlh0hx2JHXCkHU-iyxwH4WGDcvzjM.%26v%3D2%26mac%3DAQEAEAABABQUqsI1v6BAwplVCdiyZ9EClHT-AQTvz_I.
+.netflix.com	TRUE	/	FALSE	1720970371	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jul+15+2023+17%3A19%3A31+GMT%2B0200+(Central+European+Summer+Time)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=bf568445-3cd9-4448-8738-b1b47b766b16&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1720970369	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABS1c_yiyPU6ZU3hx0id5O6HOOl_Os3tY1Q.%26dt%3D1689434435991
